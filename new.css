@@ -1,0 +1,14 @@
+@media screen and (min-width:1114px){.main-content__main-column,
+	.simple-header__inner{
+		position:relative;
+		left:17.0579%;
+		max-width:48.9037%;
+		/*margin-left:0*/
+	}
+	.main-content__clearfix--blog-post{padding:2rem 2.5em}
+	.main-content__clearfix--home-page.classified-ads{padding:1.45em 3rem 2rem}
+	.main-content__related-column{width:25.58685%;min-width:300px}
+	.main-content__related-column>*{float:right}
+	.main-content__main-column--home-page{left:0;max-width:100%}
+	.main-content__related-column--home-page{width:auto}
+}
